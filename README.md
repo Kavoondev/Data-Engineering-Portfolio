@@ -7,6 +7,8 @@ This project demonstrates a robust ETL pipeline that fetches weather data from t
 
 **Keywords**: Data Engineering, ETL Pipeline, Apache Airflow, Databricks, Spark, MS SQL Server, Power BI, Python, SQL, Delta Lake, Data Warehouse, Star Schema, Cloud Analytics.
 
+![Airflow DAG](https://github.com/Kavoondev/Data-Engineering-Portfolio/blob/main/airflow_done.png?raw=true)
+
 ## Architecture
 - **Extract**: Fetches JSON data from OpenWeatherMap (temperature, humidity) and WeatherAPI (precipitation) hourly, storing raw data in Databricks DBFS (`dbfs:/Volumes/workspace/default/weather/raw/`).
 - **Transform**: Processes data in Databricks using PySpark, handling Spark part-files and NaN values, and saves as CSV in `dbfs:/Volumes/workspace/default/weather/transformed/`.
