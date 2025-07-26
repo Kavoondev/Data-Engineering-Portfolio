@@ -1,5 +1,7 @@
+.venv
+__pycache__
+
 config.py
 FLIGHT_OFFER_SAVED.json
 FLIGHT_OFFER.txt
 save_token.txt
-.venv
