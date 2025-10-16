@@ -78,7 +78,7 @@ It automates the full **ETL/ELT lifecycle** — from metadata-driven ingestion t
 ├── metadata/
 │ └── entities_config.json
 └── docs/
-└── pipeline_design.md
+    └── pipeline_design.md
 
 ---
 
