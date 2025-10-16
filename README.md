@@ -8,7 +8,7 @@ This repository showcases a **real-world Data Engineering project** developed co
 
 The project implements a **modern data ingestion and transformation pipeline** using **Azure Data Factory (ADF)** and **Databricks**, integrated with **Azure Data Lake Storage (ADLS)** for scalable and cost-efficient data management.
 
-![ADF+Databricks ETL Pipeline](https://github.com/Kavoondev/Data-Engineering-Portfolio/assets/etl_arch.jpg?raw=true)
+![ADF+Databricks ETL Pipeline](https://github.com/Kavoondev/Data-Engineering-Portfolio/blob/main/assets/etl_arch.jpg)
 
 It automates the full **ETL/ELT lifecycle** — from metadata-driven ingestion to Delta Lake–based curation — ensuring consistency, flexibility, and observability across all data entities.
 
